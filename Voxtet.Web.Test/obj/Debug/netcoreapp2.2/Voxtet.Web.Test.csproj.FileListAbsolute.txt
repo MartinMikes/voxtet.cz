@@ -1,0 +1,14 @@
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\Voxtet.Web.Test.deps.json
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\Voxtet.Web.Test.runtimeconfig.json
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\Voxtet.Web.Test.runtimeconfig.dev.json
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\Voxtet.Web.Test.dll
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\bin\Debug\netcoreapp2.2\Voxtet.Web.Test.pdb
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\obj\Debug\netcoreapp2.2\Voxtet.Web.Test.csprojAssemblyReference.cache
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\obj\Debug\netcoreapp2.2\Voxtet.Web.Test.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\obj\Debug\netcoreapp2.2\Voxtet.Web.Test.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\obj\Debug\netcoreapp2.2\Voxtet.Web.Test.AssemblyInfo.cs
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\obj\Debug\netcoreapp2.2\Voxtet.Web.Test.dll
+C:\Users\marti\Documents\GitHub\voxtet.cz\Voxtet.Web.Test\obj\Debug\netcoreapp2.2\Voxtet.Web.Test.pdb

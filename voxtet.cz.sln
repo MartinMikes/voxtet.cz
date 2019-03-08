@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxtet.Web.Test", "Voxtet.W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxtet.Web.Data", "Voxtet.Web.Data\Voxtet.Web.Data.csproj", "{8EC8C3C1-CBB3-459E-A654-660825FB69D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxtet.Web.Mvc", "Voxtet.Web.Mvc\Voxtet.Web.Mvc.csproj", "{A0300D7F-60D0-4940-BE24-5C3F90356F04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{8EC8C3C1-CBB3-459E-A654-660825FB69D2}.Release|x64.Build.0 = Release|Any CPU
 		{8EC8C3C1-CBB3-459E-A654-660825FB69D2}.Release|x86.ActiveCfg = Release|Any CPU
 		{8EC8C3C1-CBB3-459E-A654-660825FB69D2}.Release|x86.Build.0 = Release|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Debug|x64.Build.0 = Debug|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Debug|x86.Build.0 = Debug|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Release|x64.ActiveCfg = Release|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Release|x64.Build.0 = Release|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Release|x86.ActiveCfg = Release|Any CPU
+		{A0300D7F-60D0-4940-BE24-5C3F90356F04}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
