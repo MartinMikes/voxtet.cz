@@ -9,8 +9,8 @@ namespace Voxtet.Web.Data
         public DbSet<Concert> Concerts { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
-            //optionsBuilder.useS
-            base.OnConfiguring(optionsBuilder);
+            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=VoxtetCz;Trusted_Connection=True;MultipleActiveResultSets=true");
+            //base.OnConfiguring(optionsBuilder);
         }
     }
 }
